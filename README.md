@@ -17,7 +17,7 @@ following information:
 
 - The total stock volume of the stock. The result should match the following image:
 
-  ![2018 Total Stock Volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.pnghttps://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.png)
+  ![2018 Total Stock Volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.png)
   _Note:  Year 2018 Shown_
   
 - Add functionality to your script to return the stock with the "Greatest % increase",     
