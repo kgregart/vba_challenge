@@ -21,6 +21,8 @@ following information:
 - Add functionality to your script to return the stock with the "Greatest % increase",     
   "Greatest % decrease", and "Greatest total volume". The solution should match the 
   following image:
+
+  _Note:  2022_
       
   ![Great % increase, decrease and total volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2020_Results.png)
     
