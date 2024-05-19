@@ -17,15 +17,16 @@ following information:
 
 - The total stock volume of the stock. The result should match the following image:
 
-![Total Stock Volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.pnghttps://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.png)
-
+  ![2018 Total Stock Volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.pnghttps://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.png)
+  _Note:  Year 2018 Shown_
+  
 - Add functionality to your script to return the stock with the "Greatest % increase",     
   "Greatest % decrease", and "Greatest total volume". The solution should match the 
   following image:
 
-  _Note:  Year 2020 Shown_
       
   ![Great % increase, decrease and total volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2020_Results.png)
+  _Note:  Year 2020 Shown_
     
 - Make the appropriate adjustments to your VBA script to enable it to run on every 
   worksheet (that is, every quarter) at once.
