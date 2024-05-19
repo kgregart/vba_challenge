@@ -26,7 +26,7 @@ following information:
   following image:
 
       
-  ![Great % increase, decrease and total volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2020_Results.png)
+  ![Great % increase, decrease and total volume](https://github.com/kgregart/vba_challenge/blob/main/Images/Screenshot_2020_Results.png)
   _Note:  Year 2020 Shown_
     
 - Make the appropriate adjustments to your VBA script to enable it to run on every 
