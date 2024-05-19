@@ -10,19 +10,20 @@ following information:
 - The ticker symbol
 
 - Quarterly change from the opening price at the beginning of a given quarter to the     
-      closing price at the end of that quarter.
+  closing price at the end of that quarter.
 
 - The percentage change from the opening price at the beginning of a given quarter to the 
   closing price at the end of that quarter.
 
 - The total stock volume of the stock. The result should match the following image:
 
+![Total Stock Volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.pnghttps://github.com/kgregart/vba_challenge/blob/main/Screenshot_2018_Results.png)
 
 - Add functionality to your script to return the stock with the "Greatest % increase",     
   "Greatest % decrease", and "Greatest total volume". The solution should match the 
   following image:
 
-  _Note:  2022_
+  _Note:  Year 2020 Shown_
       
   ![Great % increase, decrease and total volume](https://github.com/kgregart/vba_challenge/blob/main/Screenshot_2020_Results.png)
     
